@@ -1,5 +1,3 @@
-# AI & Machine Learning – University Project Portfolio
-
 Dieses Repository enthält eine Sammlung von Projekten zum maschinellen Lernen. Die Notebooks wurden im Rahmen des Moduls "Maschinelles lernen" entwickelt und behandeln zentrale Konzepte wie Klassifikation, Datenvorverarbeitung, Modellbewertung sowie geometrische Intuition in hohen Dimensionen.
 
 Die Projekte wurden strukturiert aufbereitet, kommentiert und grafisch visualisiert, um sowohl die technische Umsetzung als auch das inhaltliche Verständnis zu demonstrieren.
